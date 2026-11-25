@@ -1,0 +1,6 @@
+{
+  "name": "CONTENTRA",
+  "description": "Platform manajemen dan penyusunan konten kehumasan berbasis alur Siklus Literatif Tunggal Penyusunan Konten Kehumasan MUQOLIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
